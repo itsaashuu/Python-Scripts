@@ -1,6 +1,9 @@
 # Python-Scripts
 Python scripts to crawl the web and get your stuff done
 
+#Cricscore
+Get live cricket scores on your terminal
+
 # Wallpaper Download
 Download HD wallpapers from web just by typing the name of celeb.
 
