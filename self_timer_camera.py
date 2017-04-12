@@ -1,5 +1,5 @@
 '''
-    Python multiple image capture
+    Self Timer Camera
     By : Ashutosh Maheshwari
 '''
 import pygame.camera
